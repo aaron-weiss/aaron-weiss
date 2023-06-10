@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Attending an **AWESOME** MSFT GitHub bootcamp from 6/10 - 6/11/23
+- Financial markets nut
+- Jack of all trades, master of none (OK, maybe a few here and there)
+- Currently reskilling like crazy
+
 <!--
 **aaron-weiss/aaron-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
